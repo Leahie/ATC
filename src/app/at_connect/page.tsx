@@ -12,7 +12,12 @@ export default function about(){
             
             <Main source="/poster2.png"/>
             <Heading link="/about_us" num="1" blurb="About Us"/>
-            <Heading link="/books"  num="2" blurb="People"/>
+            <Heading link="/people"  num="2" blurb="People"/>
+            <Leadership leaders={atcon_people} />
+
+            <Heading link="/books"  num="3" blurb="Sponsors"/>
+             {/*
+            <Heading link="/user/signup"  num="4" blurb="Account"/> */}
         </div>
     )
 }
