@@ -9,9 +9,7 @@ export default function about(){
             
             <Main source="/poster2.png"/>
             <Heading link="/about_us" num="1" blurb="About Us"/>
-            <Heading link="/games"  num="2" blurb="Games"/>
-            <Heading link="/books"  num="3" blurb="Books"/>
-            <Heading link="/user/signup"  num="4" blurb="Account"/>
+            <Heading link="/books"  num="2" blurb="People"/>
         </div>
     )
 }

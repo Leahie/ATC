@@ -3,8 +3,9 @@ interface HeadingProps{
     blurb: string,
     link: string, 
 }
+
 export default function Heading(props: HeadingProps){
-    return(
+    return( 
         <div>
            
             <a href={props.link}  style={props.link=="none" ? {cursor: "default"}: {}}> <h2 className=" text-[3em] mx-[1em] my-[1em] ">
