@@ -37,6 +37,7 @@ export default function Page() {
     }
 
     const openModal = (index: number) => {
+        setCurrIndex(index)
         setModalOpen(true); //can open modal
         changeCounter();
         changeColor(index);
