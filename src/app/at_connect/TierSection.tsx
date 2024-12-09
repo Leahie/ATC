@@ -2,7 +2,7 @@ import Box from "./Sponsors_box"
 import tinycolor from 'tinycolor2';
 
 interface TierProps{
-    array:[string] | []
+    array: string[]
     backgroundColor: string
     title: string
 }
