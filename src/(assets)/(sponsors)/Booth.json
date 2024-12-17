@@ -4,5 +4,11 @@
         "imageUrl": "/sponsors/safeinhome.png",
         "description": "SafeinHome empowers people to live independently in their own homes and communities using a remote supports staff and assistive technologies.",
         "website": "https://safeinhome.com"
+    },
+    {
+        "name": "TTAC",
+        "imageUrl": "/sponsors/TTAC.jpg",
+        "description": "TTAC provides training and technical assistance free of charge to schools and agencies supporting students with disabilities",
+        "website": "https://www.ttac.vt.edu/"
     }
 ]
