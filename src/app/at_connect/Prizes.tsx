@@ -5,8 +5,8 @@ const PrizeTable = () => {
     { place: 1, medal: "🥇", prize: "$400" },
     { place: 2, medal: "🥈", prize: "$300" },
     { place: 3, medal: "🥉", prize: "$200" },
-    { place: 4, medal: "4th", prize: "$100" },
-    { place: 5, medal: "5th", prize: "$100" },
+    // { place: 4, medal: "4th", prize: "$100" },
+    // { place: 5, medal: "5th", prize: "$100" },
   ];
 
   return (

@@ -23,8 +23,8 @@ export default function AboutUs() {
               ATConnect is Thomas Jefferson High School for Science and Technology's first-ever fair connecting
               students and companies across the county to create and share their assistive technology with students
               with disabilities. The event is organized by TJ's Assistive Technology Club, which emphasizes working
-              with and creating technology for students with disabilities. At the event, students and companies will
-              present their products in separate booths for anyone to join.
+              with and creating technology for students with disabilities. Here is a <a className='text-dark-color bg-pale-color' href="./Previous Projects.pdf"> link </a> to some of our club's previous projects.
+              At the event, students and companies will present their products in separate booths for anyone to join.
             </p>
           </section>
 
@@ -41,7 +41,7 @@ export default function AboutUs() {
             <h3 className="text-xl font-bold mb-2 text-black">BE A PART OF THE MAGIC</h3>
             <p className="text-sm md:text-base">
               We're here to deliver the dream and spread awareness to those in need. Whether you're a high school
-              team or a sponsor, come join us for the first-ever TJ Assistive Technology fair, coming February 2025!
+              team or a sponsor, come join us for the first-ever TJ Assistive Technology fair, coming April 6th, 2025!
             </p>
           </section>
         </div>
