@@ -18,20 +18,20 @@ export default function TierSection(props: TierProps) {
             >
                 {props.title}
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto px-4">
+            <div className="flex flex-wrap gap-8 my-5 mx-auto px-4 ">
                 {props.array.map((item, index) => {
                     // Check if item is a string or an object
                     if (typeof item === "string") {
                         // Render a placeholder or handle string items as needed
                         return (
-                            <div key={index} className="snap-start w-full">
+                            <div key={index} className="snap-start w-1/3">
                                 <p>{item}</p>
                             </div>
                         );
                     } else {
                         // Render the Box component for object items
                         return (
-                            <div key={index} className="snap-start w-full">
+                            <div key={index} className="snap-start w-auto">
                                 <Box
                                     name={item.name}
                                     imageUrl={item.imageUrl}

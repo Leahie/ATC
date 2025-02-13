@@ -10,5 +10,23 @@
         "imageUrl": "/sponsors/TTAC.jpg",
         "description": "TTAC provides training and technical assistance free of charge to schools and agencies supporting students with disabilities",
         "website": "https://www.ttac.vt.edu/"
+    }, 
+    {
+        "name": "PRCSaltillo",
+        "imageUrl": "/sponsors/prcsaltillo.png",
+        "description": "Experience the life-changing joy of meaningful communication through our world-renowned, customized AAC vocabularies, assistive technology, and our unmatched training and personalized support.",
+        "website": "https://www.prc-saltillo.com/"
+    }, 
+    {
+        "name": "Northern Virginia Resource Center for the Deaf & Hard of Hearing Persons",
+        "imageUrl": "/sponsors/NVRC.jpg",
+        "description": "Experience the life-changing joy of meaningful communication through our world-renowned, customized AAC vocabularies, assistive technology, and our unmatched training and personalized support.",
+        "website": "https://formedfamiliesforward.org/provider/northern-virginia-resource-center-for-the-deaf-hard-of-hearing-persons-nvrc/"
+    }, 
+    {
+        "name": "Children's Assistive Technology Service",
+        "imageUrl": "/sponsors/CATS.jpg",
+        "description": "C.A.T.S. accepts donations of gently used pediatric adaptive equipment, cleans and refurbishes it, and provides it to children with disabilities that need it at no cost.",
+        "website": "https://atdevicesforkids.org/"
     }
 ]

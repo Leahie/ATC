@@ -9,6 +9,7 @@ import atcon_people from "@/(assets)/People_ATcon.json";
 import AboutUs from "./about_us";
 import SponsorsPage from "./Sponsors";
 import PrizesPage from "./Prizes";
+import JudgesBox from "./Judges"
 
 export default function About() {
   const sections = ["About Us", "Sponsors", "Prizes", "People"];
@@ -127,8 +128,13 @@ export default function About() {
         <PrizesPage />
       </div>
 
+      <div id="judges">
+        <Heading link="" num="4" blurb="Judges" />
+        <JudgesBox />
+      </div>
+
       <div id="people">
-        <Heading link="" num="4" blurb="People" />
+        <Heading link="" num="5" blurb="People" />
         <Leadership leaders={atcon_people} />
       </div>
     </div>
