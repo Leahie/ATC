@@ -28,5 +28,11 @@
         "imageUrl": "/sponsors/CATS.jpg",
         "description": "C.A.T.S. accepts donations of gently used pediatric adaptive equipment, cleans and refurbishes it, and provides it to children with disabilities that need it at no cost.",
         "website": "https://atdevicesforkids.org/"
+    },
+    {
+        "name": "XYZ Domains",
+        "imageUrl": "/sponsors/xyz.png",
+        "description": "",
+        "website": "https://gen.xyz/"
     }
 ]
