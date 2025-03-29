@@ -34,5 +34,11 @@
         "imageUrl": "/sponsors/xyz.png",
         "description": "",
         "website": "https://gen.xyz/"
+    }, 
+    {
+        "name": "AIM-VA",
+        "imageUrl": "/sponsors/AIMVA.png",
+        "description": "",
+        "website": "https://aimva.org/"
     }
 ]
