@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "name": "PartnershipFund",
+        "imageUrl": "/sponsors/PartnershipFund.png",
+        "description": "The Thomas Jefferson High School for Science and Technology Partnership Fund, Inc. is a 501(c)3 non-profit foundation that works together with the TJHSST administration to support the educational programs of one of America’s top public schools.",
+        "website": "https://tjpartnershipfund.org/"
+    }
+]
